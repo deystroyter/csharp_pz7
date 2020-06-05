@@ -1,0 +1,10 @@
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\ColorPicker\bin\Debug\ColorPicker.exe.config
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\ColorPicker\bin\Debug\ColorPicker.exe
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\ColorPicker\bin\Debug\ColorPicker.pdb
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\ColorPicker\obj\Debug\ColorPicker.csprojAssemblyReference.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\ColorPicker\obj\Debug\ColorPicker.Form1.resources
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\ColorPicker\obj\Debug\ColorPicker.csproj.CoreCompileInputs.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\ColorPicker\obj\Debug\ColorPicker.exe
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\ColorPicker\obj\Debug\ColorPicker.pdb

@@ -1,0 +1,10 @@
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\EscapeBtn\bin\Debug\EscapeBtn.exe.config
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\EscapeBtn\bin\Debug\EscapeBtn.exe
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\EscapeBtn\bin\Debug\EscapeBtn.pdb
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\EscapeBtn\obj\Debug\EscapeBtn.csprojAssemblyReference.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\EscapeBtn\obj\Debug\EscapeBtn.Form1.resources
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\EscapeBtn\obj\Debug\EscapeBtn.Properties.Resources.resources
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\EscapeBtn\obj\Debug\EscapeBtn.csproj.GenerateResource.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\EscapeBtn\obj\Debug\EscapeBtn.csproj.CoreCompileInputs.cache
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\EscapeBtn\obj\Debug\EscapeBtn.exe
+D:\Andrey\Polytech\!6 sem\C# (6 sem)\Pz 7\EscapeBtn\obj\Debug\EscapeBtn.pdb
